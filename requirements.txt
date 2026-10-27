@@ -1,0 +1,7 @@
+
+mlflow==3.17.2
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn

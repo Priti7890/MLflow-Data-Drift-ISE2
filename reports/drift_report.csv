@@ -1,0 +1,4 @@
+feature,ks_statistic,p_value,drift_detected
+temperature,0.756,3.7741254417171835e-280,True
+humidity,0.778,1.71298283268853e-299,True
+vibration,0.029,0.7946637387576738,False
